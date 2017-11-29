@@ -1,3 +1,20 @@
-{
-
-}
+[
+  {
+    "title": "Post 1",
+    "detail": "Detail 1",
+    "created": "10-21-2012",
+    "color":1
+  },
+  {
+    "title": "Post 2",
+    "detail": "Detail 2",
+    "created": "10-22-2012",
+    "color":1
+  },
+  {
+    "title": "Post 2",
+    "detail": "Detail 3",
+    "created": "10-23-2012",
+    "color":1
+  }
+]
